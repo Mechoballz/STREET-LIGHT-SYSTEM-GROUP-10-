@@ -1,3 +1,5 @@
-# AUTOMATIC STREET LIGHT SYSTEM 
-## ER5
-### RTGTEG
+# AUTOMATIC STREET LIGHT SYSTEM (GROUP 10) DESCRIPTION
+## For our robotics project,
+### We designed and simulated an Automatic Streetlight System using Proteus 8 Professional and Arduino Uno to create a smart lighting solution. The system works by using an LDR (Light Dependent Resistor) to detect changes in ambient light and an Arduino to process the data and control the streetlight accordingly. When it gets dark, the LDR signals the Arduino to turn the light on, and when daylight is detected, the system switches it off automatically to save energy. I built the circuit in Proteus, carefully adding components like resistors, transistors, and relays to ensure everything functioned correctly. I also wrote and uploaded the C++ code to the Arduino, making sure the logic worked efficiently for smooth operation. The Proteus simulation helped me test and fine-tune the system before any real-world application. this project deepened my understanding of embedded systems, automation, and circuit design, while also improving my Arduino programming and simulation skills.
+#### Lastly, we would like to make reference to the question we were asked during the presentation of our project;
+##### Why did we decide to work with the automatic street light system, Our reason was due to the instability of electricity in the economy, hence the innovation of systems like the automatic street light sytem that runs mainly on solar power, focuses on energy conservation, and reduces cost of lighting at least on the streets, leading to a safer, brighter and more cost effective economy.
